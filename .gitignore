@@ -8,6 +8,11 @@ out/
 .apt_generated
 .iml
 HomeWorkJava.iml
+ .idea/.gitignore
+        deleted:    .idea/misc.xml
+        deleted:    .idea/modules.xml
+        deleted:    .idea/vcs.xml
+
 .classpath
 .factorypath
 .project
